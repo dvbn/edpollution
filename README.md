@@ -4,7 +4,7 @@ R package and analysis code for **Air Pollution and Children's Health Inequaliti
 Milena Suarez Castillo, David Benatia and Christine Le Thi, *Journal of
 Environmental Economics and Management* 131 (2025), 103149.
 
-[Published paper](https://doi.org/10.1016/j.jeem.2025.103149) · [Author website and paper materials](https://davidbenatia.com/research/)
+[Published paper](https://doi.org/10.1016/j.jeem.2025.103149) · [Working paper PDF](https://www.dropbox.com/scl/fi/hmjhwyercs9lhgj1q3ps7/air-pollution-children-working-paper-2025-03-14.pdf?rlkey=fjzgs8hrenr3soaaxr8bcnggd&dl=0) · [Author website and paper materials](https://davidbenatia.com/research/)
 
 ## Contents
 
